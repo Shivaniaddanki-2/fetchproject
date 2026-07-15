@@ -1,5 +1,7 @@
-num1=int(input("Enter a number:"))
+num2=int(input("Enter a number:"))
 num2=int(input("Enter a number:"))
 print("addition is:", num1+num2)
 print("subraction is:", num1-num2)
 print("Prod is:", num1*num2)
+print("Div is:", num1/num2)
+print("Mod is:", num1%num2)
